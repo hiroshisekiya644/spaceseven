@@ -8,16 +8,6 @@ This is the codebase to go along with tbe blog post [Building a Full Stack NFT M
 
 ### Running this project
 
-#### Gitpod
-
-To deploy this project to Gitpod, follow these steps:
-
-1. Click this link to deploy
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/huhn511/iota-evm-nft-marketplace
-)
-
-
 #### Local setup
 
 To run this project locally, follow these steps.
