@@ -1,11 +1,5 @@
 ## IOTA EVM NFT Marketplace
 
-> Full stack NFT marketplace built with IOTA Smart Contracs, Solidity, IPFS, & Next.js
-
-This is a fork of [dabit3/polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) and configurated for the IOTA Smart Contract Tesnet EVM. Special thanks to the author!
-
-This is the codebase to go along with tbe blog post [Building a Full Stack NFT Marketplace on Ethereum with Polygon](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
-
 ### Running this project
 
 #### Local setup
